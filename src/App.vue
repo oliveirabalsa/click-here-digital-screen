@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import Page from './components/Page';
+import Page from './components/MainPage';
 import Header from './components/Header';
 
 
