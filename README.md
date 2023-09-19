@@ -1,4 +1,4 @@
-# click-here-screen
+# Click Here Screen Vue.js
 
 ## Project setup
 ```
